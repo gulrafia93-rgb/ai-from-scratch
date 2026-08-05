@@ -28,7 +28,7 @@ This repository documents my journey of learning Artificial Intelligence from fu
 | Day | Topic | Status |
 |-----|-------|--------|
 | 1 | What Does an AI System Actually Do? | done |
-| 2 | Coming Soon | pending |
+| 2 | Your First Python AI Script| done |
 
 ---
 
