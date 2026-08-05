@@ -1,6 +1,5 @@
 # Day 1: What Does an AI System Actually Do?
-
-![AI Pipeline](ai-pipeline.png)
+![AI Pipeline](ai-pipline.png)
 
 ## Goal
 
