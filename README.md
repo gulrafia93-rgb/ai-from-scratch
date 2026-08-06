@@ -30,7 +30,8 @@ This repository documents my journey of learning Artificial Intelligence from fu
 | 1 | What Does an AI System Actually Do? | done |
 | 2 | Your First Python AI Script| done |
 | 3 | Text is Data - Turning Words into Numbers | done|
-| 4 | coming soon | ? |
+| 4 | Vectors - Teaching Meaning to Machines | done |
+| 5 | coming soon | ? |
 
 ---
 
