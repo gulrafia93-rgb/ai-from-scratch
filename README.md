@@ -33,7 +33,8 @@ This repository documents my journey of learning Artificial Intelligence from fu
 | 4 | Vectors - Teaching Meaning to Machines | done |
 | 5 | Mini Search Engine | done|
 | 6 | What is Machine Learning? Build an Intuition | done |
-| 7 | comeing soon | pending |
+| 7 | My First Classifier | done |
+| 8 | coming soon| coming|
 
 ---
 
