@@ -34,7 +34,9 @@ This repository documents my journey of learning Artificial Intelligence from fu
 | 5 | Mini Search Engine | done|
 | 6 | What is Machine Learning? Build an Intuition | done |
 | 7 | My First Classifier | done |
-| 8 | coming soon| coming|
+| 8 | How Machine Read Human Language | done |
+| 9 | Teaching AI Semantic Meaning Through Vectors | done |
+| 10 | coming soon| coming|
 
 ---
 
