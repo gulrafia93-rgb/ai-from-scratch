@@ -36,7 +36,8 @@ This repository documents my journey of learning Artificial Intelligence from fu
 | 7 | My First Classifier | done |
 | 8 | How Machine Read Human Language | done |
 | 9 | Teaching AI Semantic Meaning Through Vectors | done |
-| 10 | coming soon| coming|
+| 10 | My_First_End_to_End_NLP_Pipeline|done|
+| 11 | coming soon | soon |
 
 ---
 
