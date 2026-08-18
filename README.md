@@ -40,7 +40,9 @@ This repository documents my journey of learning Artificial Intelligence from fu
 | 11 | Build My First Document Retrieval System | done |
 | 12 | Chunking Strategies for Long Document Processing | done |
 | 13 | Understanding Embeddings as Semantic Coordinates | done |
-| 14 | coming soon | soon |
+| 14 | Build a Semantic Search Engine (FAISS)
+| done |
+| 15 | coming soon | soon |
 
 ---
 
